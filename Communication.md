@@ -40,3 +40,8 @@
     - Aanleiding
     - Doelstelling
     - Hoofdvraag
+- Vragen gesteld en feedback ontvangen over onze indeling (niet per se de indeling die we in het begin hadden, ik bedoel hier ook de onde indeling na dat we deze veranderd hadden)
+- Eerste draft van de conclusie geschreven
+- Tekst geschreven over mogelijk suggesties om het project uit te breiden.
+    - We liepen tegen een probleem aan omtrent sommige borden die niet in de ndw data zaten, maar die wij wel gebruikte. Ik schreef daarover met als suggestie dat we wellicht in de toekomst onze berekening zouden kunnen verbeteren (accurater maken) waardoor we niet meer hoeven te verifiëren met de ndw data wat de coördinaten van het bord zijn en dit probleem dus verholpen wordt.
+- Discussie nagetrokken en aangepast op basis van de resultaten die niet eerder in het paper stonden
