@@ -29,3 +29,14 @@
 ### Interne presentatie week 16
 
 ![image](https://user-images.githubusercontent.com/80320867/215429249-a0d4b001-e335-4e4e-b5f3-db920bbc0ed7.png)
+
+# Research Paper
+- Workshop van Tony Andrioli bijgewoond over het doen van research
+- Eerste Opzet gemaakt met Mohamed
+  - De indeling van de hoofdstukken gemaakt ( hier is later verandering in gekomen en is niet gelijk aan de huidige indeling) 
+  - Met Mohamed begonnen met schrijven van het paper, we hebben een start gemaakt aan de volgende opdrachten
+    - Inleiding
+    - Leeswijzer
+    - Aanleiding
+    - Doelstelling
+    - Hoofdvraag
