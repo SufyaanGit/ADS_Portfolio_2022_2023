@@ -20,4 +20,4 @@ Ik heb tijdens de IV-Infra casus gewerkt met deze data. Het idee was in eerste i
 Tijdens het project ben ik bekend geraakt met camera calibratie. Ik heb onderzoek gedaan naar de werking en effecten van deze calibratie en hoe deze berekend kunnen worden. 
 Ook ben ik aan de gang gegaan met de Hugin tool. In deze tool ben ik veel nieuwe dingen tegengekomen en heb ik meer geleerd over fisheye foto's en hoe verschillende foto's aan elkaar geplakt kunnen worden om er een grote van te maken, zonder dat ze overlappen bijvoorbeeld.
 
-Dit en de bewijzen hiervoor zijn allemaal te zien in de "Data (pre)processing" sectie.
+Dit en de bewijzen hiervoor zijn allemaal te zien in de [Data (pre)processing](https://github.com/SufyaanGit/ADS_Portfolio_2022_2023/blob/main/Data%20(pre)processing.md) sectie.
